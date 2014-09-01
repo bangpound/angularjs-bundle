@@ -1,0 +1,7 @@
+parameters:
+#    bangpound_angular_js.example.class: Bangpound\Bundle\AngularJsBundle\Example
+
+services:
+#    bangpound_angular_js.example:
+#        class: %bangpound_angular_js.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
