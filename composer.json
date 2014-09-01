@@ -1,5 +1,5 @@
 {
-    "name": "bangpound/angular-js-bundle",
+    "name": "bangpound/angularjs-bundle",
     "description": "AngularJS Symfony bundle",
     "require": {
         "sp/bower-bundle": "~0.11"
