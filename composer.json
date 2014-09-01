@@ -11,6 +11,9 @@
             "email": "bjd@bangpound.org"
         }
     ],
+    "autoload": {
+        "psr-4": {"Bangpound\\Bundle\\AngularJsBundle\\": ""}
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "1.0.x-dev"
